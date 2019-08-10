@@ -81,6 +81,7 @@
     <Compile Include="Extensions\DateTimeExtensions\GetPosixTimeTest.cs" />
     <Compile Include="Extensions\DateTimeExtensions\SetTest.cs" />
     <Compile Include="Extensions\ExpressionExtensions\NotTest.cs" />
+    <Compile Include="Extensions\ObjectExtensions\ExtendedEqualsTest.cs" />
     <Compile Include="Extensions\StringExtensions\ZipTest.cs" />
     <Compile Include="Extensions\TypeExtensions\AsIEnumerableTest.cs" />
     <Compile Include="Extensions\TypeExtensions\EvalTest.cs" />
